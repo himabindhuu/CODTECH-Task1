@@ -1,8 +1,13 @@
 **Name:** NOMULA HIMA BINDHU 
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS1513
+
 **Domain:** DATA SCIENTIST
+
 **Duration:** June to July 2024
+
 **Mentor:** SRAVANI GOUNI
 
 
